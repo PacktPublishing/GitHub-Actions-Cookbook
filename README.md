@@ -22,7 +22,7 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/GitHub-
 alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
-All of the code is organized under the TOC.md file. Please check it out for more details.
+All of the code is accessible by navigating the [TOC.md](https://github.com/PacktPublishing/GitHub-Actions-Cookbook/blob/main/TOC.md) file. Please check it out for more details.
 
 The code will look like the following:
 ```
